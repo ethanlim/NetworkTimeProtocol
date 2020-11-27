@@ -1,4 +1,4 @@
-#ifndef NTPClIENT_H
+#ifndef NTPCLIENT_H
 #define NTPCLIENT_H
 
 #include <string>
